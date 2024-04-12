@@ -14,4 +14,4 @@ sudo make install
 export XDG_CONFIG_HOME=$HOME/.config
 ```
 
-or open ``
+or open `~/.bashrc` and paste the line from above inside the file.
